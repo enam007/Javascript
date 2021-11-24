@@ -1,0 +1,25 @@
+In javascript every value is either an object or Primitive value and a value is only primitive when the value is not an object
+There are 7 primitive data types
+a. Number (Decimal or integers eg. let age = 23)
+b. String (Used for text eg. let firstName = 'Aamir')
+c. Boolean (Used for taking decision eg. let isVisible = true)
+
+d. Undefined (Value taken by variable that is not yet defined eg. let children)
+
+e. Null (empty value)
+
+f. Symbol (Value that is Unique and cannot be changed)
+
+g.BigInt (For large number)
+
+Also javascript support dynamic typing as in python i.e. we do not define the data type manually
+
+ways of declaring variable in javascript 
+let , const , var
+We use let when we want to mutate the value further in code
+
+we use const for a value which is constant also we cann't declare empty variable
+
+var is almost same as let 
+
+

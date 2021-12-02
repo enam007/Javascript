@@ -1,0 +1,8 @@
+Strict mode make it easier for us to write more secure code
+Activate it using 'use strict'
+
+Functions : can be used again 
+
+Arrow function
+
+Arrays

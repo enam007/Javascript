@@ -23,3 +23,29 @@ we use const for a value which is constant also we cann't declare empty variable
 var is almost same as let 
 
 
+//////////////////////////////////////////////////////////////////////////////
+
+Day 2
+
+String Template  and Literals
+
+
+Types of Conversion and Coercion
+
+Type conversion is  when we manually convert from one type to another
+
+using + symbol convert numbers to string 
+
+using - symbol convert string to number
+
+// Truthy and Falsy
+
+5 falsy value
+0 , '', Undefined, null, NaN
+
+Equality operators 
+== does type coercion 
+eg: '18'==18 returns true
+
+=== doesnot do type coercion
+'18'===18 returns false
